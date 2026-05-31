@@ -17,5 +17,5 @@ function randomPoem() {
     document.getElementById("btn").disabled = true;
 
     document.getElementById("btn").innerText =
-        "Đã nhận thơ hôm nay";
+        "đã nhận thơ hôm nay";
 }
